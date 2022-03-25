@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean Fenoff
 - 👀 I’m interested in creating a portfolio page to showcase my Data Science projects. 
-- 🌱 I’m currently learning Python, R, SQL, and other on my adventure into DS.
+- 🌱 I’m currently learning Python, R, SQL, and others on my adventure into DS.
 - 📫 How to reach me: fenoff.1@osu.edu, Sean Fenoff on LinkedIn
 
 <!---
